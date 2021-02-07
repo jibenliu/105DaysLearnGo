@@ -1,0 +1,1 @@
+#refer:[https://turriate.com/articles/making-sqlite-faster-in-go](https://turriate.com/articles/making-sqlite-faster-in-go)

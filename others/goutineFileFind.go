@@ -28,7 +28,7 @@ var foundMatch = make(chan bool)
 func main() {
 	start := time.Now()
 	workerCount = 1
-	go search("/Users", true)
+	go search("/data", true)
 	waitForWorkers()
 	fmt.Println(matches, "matches")
 	fmt.Println(time.Since(start))

@@ -1,0 +1,17 @@
+# github.com/adamzy/cedar-go v0.0.0-20170805034717-80a9c64b256d
+## explicit
+github.com/adamzy/cedar-go
+# github.com/ajph/nbclassifier-go v0.0.0-20140709215621-0a62da3c633b
+## explicit
+github.com/ajph/nbclassifier-go
+# github.com/huichen/sego v0.0.0-20180617034105-3f3c8a8cfacc
+## explicit
+github.com/huichen/sego
+# github.com/issue9/assert v1.4.1
+## explicit
+# github.com/yanyiwu/gojieba v1.1.2
+## explicit
+github.com/yanyiwu/gojieba
+github.com/yanyiwu/gojieba/deps/cppjieba
+github.com/yanyiwu/gojieba/deps/limonp
+github.com/yanyiwu/gojieba/dict
