@@ -17,7 +17,7 @@ type AFreeCoder struct {
 func NewAFreeCoder() *AFreeCoder {
 	return &AFreeCoder{
 		officialAccount: "码农的自由之路",
-		content:         make([]string, 10000, 10000),
+		content:         make([]string, 10000, 10000),//第三个元素是预留空间，即cap
 		placeHolder:     "如果觉得有用，欢迎关注哦~",
 	}
 }
